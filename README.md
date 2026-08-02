@@ -1,7 +1,18 @@
-Abdinasir Mahamud — Portfolio Website
-This is a personal portfolio website that showcases:
-About Me — Background information and current studies, highlighting progress in the journey toward becoming a software engineer
-My Projects — A list of completed and ongoing projects, including a personal blog and a contact form
-Contact Form — A form allowing visitors to get in touch directly
-Tech Stack: HTML5, CSS3
-Author: Abdinasir Mahamud, Software Engineering student at university
+# Abdinasir Mahamud — Portfolio Website
+
+Personal portfolio website showcasing my background, projects, and contact information as a software engineering student.
+
+## Features
+- **About Me** — Background information and current studies
+- **My Projects** — A list of completed and ongoing projects
+- **Contact Form** — A form for visitors to get in touch
+
+## Tech Stack
+- HTML5
+- CSS3
+
+## Live Site
+https://abdi2028.github.io/Portfolio-page-/
+
+## Author
+Abdinasir Mahamud — Software Engineering student
