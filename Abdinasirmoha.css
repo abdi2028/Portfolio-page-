@@ -1,0 +1,46 @@
+*/*{
+  background-color: blueviolet;
+  color: white;
+}*/
+*{
+  color: white;
+  background-color: darkviolet;
+}
+
+h1{
+  background-color: darkgoldenrod;
+  margin: 0px;
+  text-align: center;
+  position: sticky;
+  
+}
+ 
+  img{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    
+  }
+  figcaption{
+    
+   text-align: center; 
+  }
+form{
+  color: whitesmoke;
+}
+footer{
+  text-align: center;
+}
+.submit{
+  background-color: blue;
+}
+.email{
+  background-color: white;
+  color: black;
+}
+.name{
+  background-color: white;
+  color: black;
+}
+  
+
